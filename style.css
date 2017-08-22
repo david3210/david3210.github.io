@@ -15,6 +15,10 @@ body {
   margin: 0;
 }
 
+ul {
+  text-align: center;
+}
+
 h1 {
   padding: 0px;
   margin: 0px;
