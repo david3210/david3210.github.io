@@ -17,7 +17,7 @@ body {
 }
 
 ul {
-  text-align: center;
+  text-align: left;
 }
 
 h1 {
@@ -52,7 +52,7 @@ h5 {
 
 .page-experience {
   border: 1px solid #000;
-  text-align: center;
+  text-align: left;
   padding: 30px;
   margin-left: 80px
 }
