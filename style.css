@@ -21,6 +21,18 @@ h1 {
   text-align: center;
 }
 
+h5 {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+
+h6 {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+
 .page-contact {
   padding: 0px;
   margin: 0px;
