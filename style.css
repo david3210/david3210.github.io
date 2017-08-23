@@ -66,6 +66,6 @@ page-references {
   margin-right: 30px;
 }
 
-table, td {
+table, th, td {
   border: 1px solid #000
 }
